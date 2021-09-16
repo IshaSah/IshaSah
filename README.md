@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IshaSah
+- 👋 Hi, I’m Isha Sah.
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning the concepts of Computer Engineering and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Open Source Projects.
